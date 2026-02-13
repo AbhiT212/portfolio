@@ -1,0 +1,22 @@
+node_modules
+.next
+.contentlayer
+out
+dist
+build
+
+# env files
+.env*.local
+.env
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
